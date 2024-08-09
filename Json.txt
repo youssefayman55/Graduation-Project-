@@ -1,0 +1,19 @@
+[
+   {"Heart Rate" : 65  , "Age" : 7 },
+   {"Heart Rate" : 85  , "Age" : 8 },
+   {"Heart Rate" : 105 , "Age" : 10},
+   {"Heart Rate" : 125 , "Age" : 9 },
+   {"Heart Rate" : 145 , "Age" : 7 },
+   {"Heart Rate" : 155 , "Age" : 5 },
+   {"Heart Rate" : 99  , "Age" : 6 },
+   {"Heart Rate" : 77  , "Age" : 7 },
+   {"Heart Rate" : 135 , "Age" : 8 },
+   {"Heart Rate" : 60  , "Age" : 9 },
+   {"Heart Rate" : 160 , "Age" : 5 },
+   {"Heart Rate" : 75  , "Age" : 7 },
+   {"Heart Rate" : 125 , "Age" : 6 },
+   {"Heart Rate" : 95  , "Age" : 8 },
+   {"Heart Rate" : 68  , "Age" : 11}
+]
+
+
